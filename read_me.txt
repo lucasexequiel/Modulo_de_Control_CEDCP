@@ -1,0 +1,1 @@
+Este módulo de control es el encargado del funcionamiento general de la placa
